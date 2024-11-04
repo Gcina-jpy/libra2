@@ -17,14 +17,14 @@ The Library Management System is a Java-based application designed to manage lib
 
 ### Installation
 1. Clone the repository:
-   ```bash
+  
    git clone <repository-url>
 Navigate to the project directory:
-bash
+
 Copy code
 cd library-management-system
 Compile the Java files:
-bash
+
 Copy code
 javac book/library/*.java
 Run the application:
